@@ -1,0 +1,6 @@
+/home/bikram/projects/GRD/sample/build/intermediates/classes/debug
+/home/bikram/projects/GRD/sample/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-2eda5d56a2b9923dcffa4f3d0ea526aa0817a5b9.jar
+/home/bikram/projects/GRD/sample/build/intermediates/pre-dexed/debug/classes-85e86bb45f9fdf9ae12d005f2ad8d7ed81bf88dc.jar
+/home/bikram/projects/GRD/sample/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-794fb786d8a4ebb4b9bd93c29fd2794f58350ac5.jar
+/home/bikram/projects/GRD/sample/build/intermediates/pre-dexed/debug/classes-c9e24520630199378928fed9c3fba1704ec4824f.jar
+/home/bikram/projects/GRD/sample/build/intermediates/pre-dexed/debug/classes-b1ebbd6aa26f2a145e1b0edd11c5fe14ecca6eac.jar
